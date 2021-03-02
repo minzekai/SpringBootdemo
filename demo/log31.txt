@@ -1,0 +1,19 @@
+2021-03-01 14:55:03.931  INFO 6540 --- [restartedMain] com.example.demo.DemoApplication         : Starting DemoApplication using Java 1.8.0_131 on DESKTOP-321QB9V with PID 6540 (C:\Users\醒着做饿梦\IdeaProjects\demo\target\classes started by 醒着做饿梦 in C:\Users\醒着做饿梦\IdeaProjects\demo)
+2021-03-01 14:55:03.931  INFO 6540 --- [restartedMain] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2021-03-01 14:55:03.994  INFO 6540 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-03-01 14:55:03.994  INFO 6540 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-03-01 14:55:05.051  INFO 6540 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-03-01 14:55:05.067  INFO 6540 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-03-01 14:55:05.067  INFO 6540 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-03-01 14:55:05.192  INFO 6540 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-03-01 14:55:05.192  INFO 6540 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1183 ms
+2021-03-01 14:55:05.411  INFO 6540 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-01 14:55:05.567  INFO 6540 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-03-01 14:55:05.598  INFO 6540 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2021-03-01 14:55:05.614  INFO 6540 --- [restartedMain] com.example.demo.DemoApplication         : Started DemoApplication in 2.196 seconds (JVM running for 3.36)
+2021-03-01 14:55:11.573  INFO 6540 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-01 14:55:11.573  INFO 6540 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-03-01 14:55:11.574  INFO 6540 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-03-01 14:55:11.594  INFO 6540 --- [http-nio-8080-exec-1] c.e.demo.service.UserRelataionService    : 用于测试infi
+2021-03-01 14:55:11.595 ERROR 6540 --- [http-nio-8080-exec-1] c.e.demo.service.UserRelataionService    : 用于测试error
+2021-03-01 14:55:11.595  INFO 6540 --- [http-nio-8080-exec-1] c.e.demo.service.UserRelataionService    : UserRelationService-addUser,入参，用户josn：{}
